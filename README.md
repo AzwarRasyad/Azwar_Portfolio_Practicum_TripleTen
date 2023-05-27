@@ -6,3 +6,5 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
 - study the conversion rate at different stages of the funnel
 - analyzing peculiarities in the data
 - testing if there's a difference in conversion rate between groups  
+
+![alt text](https://github.com/AzwarRasyad/Azwar_Portfolio_Practicum/blob/main/images/New%20users%20per%20day.png)
