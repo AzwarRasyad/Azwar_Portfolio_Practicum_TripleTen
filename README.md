@@ -7,4 +7,4 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
 - analyzing peculiarities in the data
 - testing if there's a difference in conversion rate between groups  
 
-![](https://github.com/AzwarRasyad/Azwar_Portfolio_Practicum/blob/main/images/New%20users%20per%20day.png)
+
