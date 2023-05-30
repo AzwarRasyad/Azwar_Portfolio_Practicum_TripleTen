@@ -11,3 +11,10 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
 - Segmenting the consumers using `KMeans`
 - Analyzing revenue trends
 - finding out which segment is the most profitable
+
+# [Project 3: Business Analytics: Project Overfiew](https://github.com/AzwarRasyad/Business-Analysis)
+- Making reports and calcuate metrics such as:
+  - How many people using the products?
+  - What is the average purchase size?
+- Finding how many users came back to use the product using cohort analysis
+- Calculating the Loan-to-Value ratio (LTV) and the Return on Investment (ROI)
