@@ -7,12 +7,12 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
 - analyzing peculiarities in the data
 - testing if there's a difference in conversion rate between groups  
 
-# [Project 2: Identify Consumer Profiles at E-Commerce: Project Overfiew](https://github.com/AzwarRasyad/Identify-consumer-profiles-at-E-Commerce)
+# [Project 2: Identify Consumer Profiles at E-Commerce: Project Overview](https://github.com/AzwarRasyad/Identify-consumer-profiles-at-E-Commerce)
 - Segmenting the consumers using `KMeans`
 - Analyzing revenue trends
 - finding out which segment is the most profitable
 
-# [Project 3: Business Analytics: Project Overfiew](https://github.com/AzwarRasyad/Business-Analysis)
+# [Project 3: Business Analytics: Project Overview](https://github.com/AzwarRasyad/Business-Analysis)
 - Making reports and calcuate metrics such as:
   - How many people using the products?
   - What is the average purchase size?
