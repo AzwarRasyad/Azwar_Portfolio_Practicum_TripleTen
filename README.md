@@ -18,3 +18,11 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
   - What is the average purchase size?
 - Finding how many users came back to use the product using cohort analysis
 - Calculating the Loan-to-Value ratio (LTV) and the Return on Investment (ROI)
+
+# [Project 4: Data-Driven Business Decision Making: Project Overview](https://github.com/AzwarRasyad/Data-Driven-Business-Decision-Making)
+- Using `ICE` and `RICE` framework to prioritize hypothesis
+- Making cumulative revenue graph
+- Calculate percentiles
+- Calculate each group's conversion rate 
+- Find the statistical significance of the difference between the groups
+- Making a decision based on the test results.
