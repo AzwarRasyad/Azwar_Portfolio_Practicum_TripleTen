@@ -26,3 +26,9 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
 - Calculate each group's conversion rate 
 - Find the statistical significance of the difference between the groups
 - Making a decision based on the test results.
+
+# [Project 5: Event-Based Analysis: Project Overview](https://github.com/AzwarRasyad/Event-Based-Analytics)
+- Using the A/A/B testing to find out the behavior of the company's app users
+- See what events are in the log and how many times they occur
+- Using event funnels to find the percentage of users who persisted from one stage to the next.
+- Finding at what stage did we lose a lot of users
