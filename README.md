@@ -32,3 +32,10 @@ Data analyst assignments and tasks during my time in data analyst bootcamp by Pr
 - See what events are in the log and how many times they occur
 - Using event funnels to find the percentage of users who persisted from one stage to the next.
 - Finding at what stage did we lose a lot of users
+
+# [Project 6: Forecasting and Prediction at a Gym: Project Overfiew](https://github.com/AzwarRasyad/Forecasting-and-Prediction-at-a-Gym)
+- Learn how to predict the churn probability for each customer
+- Analyze the factors that influences churn
+- Create a correlation matrix that affects churn
+- Using both `logistic regression` and `random forest` to compare which one gave better results
+- Using `KMeans` for segmenting 
