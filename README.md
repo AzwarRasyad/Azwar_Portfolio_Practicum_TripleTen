@@ -1,4 +1,4 @@
-# Azwar_Portfolio_Practicum
+# Azwar_Portfolio_Practicum_TripleTen
 Data analyst assignments and tasks during my time in data analyst bootcamp by Practicum
 
 # [Project 1: A/B Testing at E-Commerce: Project Overview](https://github.com/AzwarRasyad/AB-testing-at-E-Commerce)
